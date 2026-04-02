@@ -21,7 +21,7 @@
 
 | | |
 |---|---|
-| ![Matriz de Confusão](img/confusion_matrix.png) | ![Impacto Financeiro](img/roi_chart.png) |
+| ![Matriz de Confusão](confusion_matrix.png) | ![Impacto Financeiro](roi_chart.png) |
 | Threshold otimizado (30%): mais detecção, menos perda | Modelo transforma prejuízo de R$2M em lucro de R$655k |
 
 ---
@@ -49,7 +49,7 @@ A variável `Complain` apresentou correlação de **~99% com a variável alvo** 
 
 | | |
 |---|---|
-| ![Heatmap Complain vs Exited](img/complain_leakage.png) | A matriz mostra classificação quase perfeita — sinal claro de Data Leakage. Identificar e remover essa variável foi essencial para construir um modelo honesto. |
+| ![Heatmap Complain vs Exited](complain_leakage.png) | A matriz mostra classificação quase perfeita — sinal claro de Data Leakage. Identificar e remover essa variável foi essencial para construir um modelo honesto. |
 
 ### Comparação de modelos com Cross-Validation
 
@@ -65,7 +65,7 @@ A variável `Complain` apresentou correlação de **~99% com a variável alvo** 
 
 ### Interpretabilidade com SHAP
 
-![SHAP Feature Importance](img/shap_importance.png)
+![SHAP Feature Importance](shap_importance.png)
 
 Ranking de importância global das variáveis — permite explicar **por que** o modelo tomou cada decisão.
 
