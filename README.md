@@ -156,7 +156,7 @@ pip install pandas numpy scikit-learn xgboost imbalanced-learn shap matplotlib s
 
 ---
 
-## Contato
+## Autores
 
-**Autor:** Antonio Sergio Castro de Carvalho Junior
-**GitHub:** [github.com/ASCCJR](https://github.com/ASCCJR)
+- **Antonio Sergio Castro de Carvalho Junior** ([@ASCCJR](https://github.com/ASCCJR))
+- **Pedro Camargo** ([@Pdrnho](https://github.com/Pdrnho))
