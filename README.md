@@ -87,7 +87,7 @@ Variáveis sintéticas criadas com lógica de negócio:
 
 ## Impacto financeiro
 
-![ROI Completo](img/roi_chart.png)
+![ROI Completo](roi_chart.png)
 
 | Cenário | Resultado |
 |---|---|
