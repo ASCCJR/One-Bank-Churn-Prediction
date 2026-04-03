@@ -146,6 +146,10 @@ One_Bank_Churn_Prediction.ipynb   # Notebook único com pipeline completo
 
 ## Como executar
 
+**Google Colab (recomendado):**
+Abra o notebook no Colab e execute todas as células. Todas as dependências já vêm pré-instaladas.
+
+**Localmente:**
 ```bash
 pip install -r requirements.txt
 ```
