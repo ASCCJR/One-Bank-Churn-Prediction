@@ -147,7 +147,7 @@ One_Bank_Churn_Prediction.ipynb   # Notebook único com pipeline completo
 ## Como executar
 
 ```bash
-pip install pandas numpy scikit-learn xgboost imbalanced-learn shap matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 1. Baixe o dataset do Kaggle
